@@ -1,3 +1,6 @@
+# This repository is a replica of the following git repository, that is cloned & reset origin by git set-url
+Original Repository: https://github.com/PacktPublishing/Learning-OpenCV-4-Computer-Vision-with-Python-Third-Edition
+
 # Learning OpenCV 4 Computer Vision with Python 3 - Third Edition 
 
 <a href="https://www.packtpub.com/data/learning-opencv-4-computer-vision-with-python-3-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789531619"><img src="https://static.packt-cdn.com/products/9781789531619/cover/smaller" alt="Learning OpenCV 4 Computer Vision with Python 3 - Third Edition " height="256px" align="right"></a>
